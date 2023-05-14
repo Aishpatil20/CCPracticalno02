@@ -1,1 +1,1 @@
-Print("Hello World! This is Practical no. 2")
+print("Hello World! This is Practical no. 2")
